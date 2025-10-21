@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-测试脚本
-用于测试AI题库服务是否正常工作
-"""
 import requests
 import json
 import sys

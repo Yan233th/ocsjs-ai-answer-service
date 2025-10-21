@@ -11,4 +11,5 @@ dependencies = [
     "markdown>=3.9",
     "openai>=1.0.0",
     "python-dotenv>=0.19.1",
+    "requests>=2.32.5",
 ]

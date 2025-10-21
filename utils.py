@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-工具函数模块
-包含缓存管理、答案处理和OpenAI API调用等辅助功能
-"""
 import json
 import time
 import os
