@@ -1,10 +1,8 @@
-from flask import Flask, request, jsonify, make_response, render_template
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
-import os
 import time
 import logging
 import openai
-import json
 from datetime import datetime
 
 from config import Config
