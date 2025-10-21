@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-EduBrain AI - 智能题库系统
-基于 OpenAI API 的智能题库服务，提供兼容 OCS 接口的智能答题功能
-作者：Lynn
-版本：1.1.0
-"""
 from flask import Flask, request, jsonify, make_response, render_template
 from flask_cors import CORS
 import os

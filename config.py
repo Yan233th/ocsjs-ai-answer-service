@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-配置文件
-"""
 import os
 from dotenv import load_dotenv
 

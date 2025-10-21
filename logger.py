@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-日志工具模块
-提供统一的日志记录机制
-"""
 import logging
 import os
 import sys
